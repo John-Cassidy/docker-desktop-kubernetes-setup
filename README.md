@@ -1,4 +1,4 @@
-# Docker Desktop, Kubernetes, Helm and any other thoughts...
+# Docker Desktop, Kubernetes, Helm and any other thoughts
 
 Placeholder on overview
 
